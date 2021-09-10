@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro De Iturbe</h1>
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alessandroDeIturbe](https://github.com/alessandroDeIturbe)
 
