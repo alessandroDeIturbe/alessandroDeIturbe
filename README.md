@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>  
-- 🔭 I’m currently working on [cpp](https://github.com/alessandroDeIturbe/cpp)
+- 🔭 I’m currently working on (cpp)(https://github.com/alessandroDeIturbe/cpp)
 
 - 🌱 I’m currently learning **C++**  
 
