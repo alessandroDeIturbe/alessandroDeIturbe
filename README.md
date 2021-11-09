@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-- 🔭 I’m currently working on [Path and File Maker](https://github.com/alessandroDeIturbe/path-and-file-maker)
+- 🔭 I’m currently working on (Path and File Maker)(https://github.com/alessandroDeIturbe/path-and-file-maker)
 
 - 🌱 I’m currently learning **CPP**
 
