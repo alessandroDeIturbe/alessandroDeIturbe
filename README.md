@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 - 🔭 I’m currently working on (Path and File Maker)(https://github.com/alessandroDeIturbe/path-and-file-maker)
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alessandroDeIturbe](https://github.com/alessandroDeIturbe)
 
