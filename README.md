@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-- 🔭 I’m currently working on [my portfolio](https://github.com/alessandroDeIturbe/alessandrodeiturbe.github.io)
+- 🔭 I’m currently updating [pfm](https://github.com/alessandroDeIturbe/path-maker)
 
 - 🌱 I’m currently learning **django**
 
-- 👯 I’m looking to collaborate on [derthonasite](https://github.com/alessandroDeIturbe/derthonasite)
+- 👯 I’m looking to collaborate on [derthonasite](https://github.com/adrytech/t.t.derthonasite)
 
-- 🤝 I’m looking for help with [my portfolio](https://github.com/alessandroDeIturbe/alessandrodeiturbe.github.io)
+<!-- - 🤝 I’m looking for help with [my portfolio](https://github.com/alessandroDeIturbe/alessandrodeiturbe.github.io) -->
 
 - 📫 How to reach me **alessandrodeiturbe@icloud.com**
 
