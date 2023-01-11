@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **django**
 
-- 👯 I’m looking to collaborate on [derthonasite](https://github.com/alessandroDeIturbe/derthonasite)
+- 👯 I’m collaborating on [derthonasite](https://github.com/alessandroDeIturbe/derthonasite)
 
 <!-- - 🤝 I’m looking for help with [my portfolio](https://github.com/alessandroDeIturbe/alessandrodeiturbe.github.io) -->
 
